@@ -1,5 +1,5 @@
 # DragDropUploadImage<br/>
-Drag and drop image uploading in your ReactJS project with Tailwind,<br/>
+Drag and drop image uploading in your ReactJS project with Tailwind CSS,<br/>
 npx create-react-app drag-drop-upload<br/>
 cd drag-drop-upload <br/>
 npm install -D tailwindcss<br/>
