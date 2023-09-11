@@ -1,5 +1,4 @@
 import React, { useState, useRef } from 'react';
-import './App.css';
 
 function DragDropImageUploader() {
   const [images, setImages] = useState([]);
